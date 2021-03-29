@@ -1,0 +1,1 @@
+# All scripts that can be used to build a Arcolinux spinoff
