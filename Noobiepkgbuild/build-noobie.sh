@@ -1,9 +1,15 @@
 #!/bin/bash
 #https://wiki.archlinux.org/index.php/DeveloperWiki:Building_in_a_Clean_Chroot
+deletion1="../../noobie-repo/x86_64/"
+name1="${PWD##*/}"
 
-destination1="../../noobie-repo/x86_64/"
+rm $deletion1/$name1-21*.zst
 
-destiny=$destination1
+
+
+destiny="../../noobie-repo/x86_64/"
+
+#destiny=$destination1
 
 makepkg
 

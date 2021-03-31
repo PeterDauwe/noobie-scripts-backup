@@ -31,9 +31,9 @@ noobie-i3wm/
 noobie-iso/
 noobie-juno-theme/
 noobie-logout/
+noobie-mirrorlist/
 noobie-nitrogen/
 noobie-polybar/
-noobie-repo/
 noobie-root/
 noobie-sddm-theme/
 noobie-system-config/

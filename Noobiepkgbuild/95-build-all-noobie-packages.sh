@@ -12,6 +12,15 @@ set -e
 #   DO NOT JUST RUN THIS. EXAMINE AND JUDGE. RUN AT YOUR OWN RISK.
 #
 ##################################################################################################################
+
+destination1="../noobie-repo/x86_64/"
+rm $destination1/*zst
+
+
+
+
+
+
 count=0
 for name in $(ls -d */ | cut -f1 -d'/'); do
   cd $name

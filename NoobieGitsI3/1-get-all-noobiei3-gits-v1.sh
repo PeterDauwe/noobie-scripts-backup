@@ -30,6 +30,7 @@ noobie-i3wm/
 noobie-iso/
 noobie-juno-theme/
 noobie-logout/
+noobie-mirrorlist/
 noobie-nitrogen/
 noobie-pkgs-build/
 noobie-polybar/
@@ -41,6 +42,7 @@ noobie-variety/
 noobie-wallpaper1/
 noobie-xfce/
 noobie-zsh/
+noobie-cal-i3
 )
 
 count=0
